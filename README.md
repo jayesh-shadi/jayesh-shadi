@@ -9,7 +9,7 @@
 
 - 🔭 Worked on **An Android Application Which Detects the Crowd Density Inside a Bus Before Reaching its Mark.(CNN)**
 
-- 🌱 I’m currently learning **react.js, golang, kafka **
+- 🌱 I’m currently learning **react.js, golang, kafka**
 
 - 💬 Ask me about **Java, Python, Machine Learning, Node.js, Angular.js, C#, .Net Core, .Net Framework**
 
