@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jayesh_shadi" target="blank"><img src="https://img.shields.io/twitter/follow/jayesh_shadi?logo=twitter&style=for-the-badge" alt="jayesh_shadi" /></a> </p>
 
-- 🔭 I’m currently working on **An Android Application Which Detects the Crowd Density Inside a Bus Before Reaching its Mark.(CNN)**
+- 🔭 Worked on **An Android Application Which Detects the Crowd Density Inside a Bus Before Reaching its Mark.(CNN)**
 
-- 🌱 I’m currently learning **react.js, node.js**
+- 🌱 I’m currently learning **react.js, golang, kafka **
 
-- 💬 Ask me about **Java, Python, Machine Learning**
+- 💬 Ask me about **Java, Python, Machine Learning, Node.js, Angular.js, C#, .Net Core, .Net Framework**
 
 - 📫 How to reach me **jshadi1300@gmail.com**
 
