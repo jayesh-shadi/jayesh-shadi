@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js, Golang,Next.js and Kafka to enhance my skill set and stay updated with modern development practices.**
 
-- 👨‍💻 All of my projects are available at [https://jayeshshadi.site/](https://jayeshshadi.site/)
+- 👨‍💻 All of my projects are available at [https://jayeshshadi.site/](https://jayeshshadi.in/)
 
 - 📫 How to reach me **jshadi1300@gmail.com**
 
